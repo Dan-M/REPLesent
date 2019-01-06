@@ -206,14 +206,14 @@ Thanks
 
 * [Davis Z. Cabral](https://github.com/daviscabral) for implementing
 horizontal ruler support.
-* [Devon Stewart](https://github.com/blast-hardcheese/) for adding multi-file support, a vim plugin, and enhancing code block syntax highlighting support.
-
-> *I don't care if it is used, I just want it to be useful*
+* [Noel Markham](https://github.com/noelmarkham) for the redraw command
+* [Wojtek Pituła](https://github.com/Krever) for the reload command
+* [Devon Stewart](https://github.com/blast-hardcheese/) for multi-file support, syntax highlighting plug-in for vim, and syntax highlighting enhancements.
 
 License
 -------
 
-Copyright 2015 Marconi Lanna
+Copyright 2015-2017 Marconi Lanna
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
